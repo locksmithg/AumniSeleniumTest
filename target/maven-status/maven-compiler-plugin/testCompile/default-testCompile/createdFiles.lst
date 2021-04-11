@@ -1,0 +1,3 @@
+tests\Aumni_Fund_Tests.class
+driverUtilities\WaitUtilities.class
+pageObjects\HomePage.class
