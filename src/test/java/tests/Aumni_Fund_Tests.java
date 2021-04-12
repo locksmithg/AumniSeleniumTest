@@ -23,7 +23,7 @@ public class Aumni_Fund_Tests {
 	@Before
 	public void BeforeEach() {
 		System.setProperty("webdriver.chrome.driver",
-				"E:\\workspace\\Aumni_Selenium_Test\\src\\test\\resources\\drivers\\chromedriver89.exe");
+				"E:\\workspace\\Aumni_Selenium_Test\\src\\test\\resources\\drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		// Navigate to Page
 		driver.get(HomePage.aumniUrl);
